@@ -1,2 +1,8 @@
 # Java-pattern-programs
-Collection of Java pattern printing programs for practice and placement preparation. | Java pattern printing programs including pyramids, triangles, rectangles, butterfly, and more.
+Advanced Patterns include visually complex patterns that require nested loops, symmetry, and alignment logic. These patterns help improve algorithmic thinking and are great for placement preparation.
+
+**Patterns included:**
+- Butterfly Pattern
+- Diamond Pattern
+- Palindromic Number Pattern
+- Hourglass / Sandglass Pattern
